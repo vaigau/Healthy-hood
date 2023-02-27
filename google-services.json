@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "795458839557",
+    "firebase_url": "https://healthy-hood-66840-default-rtdb.firebaseio.com",
+    "project_id": "healthy-hood-66840",
+    "storage_bucket": "healthy-hood-66840.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795458839557:android:d94662dfd81eb4de8de86c",
+        "android_client_info": {
+          "package_name": "com.example.helthcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795458839557-8aqna5pvorrrqjrtgd4gfcjka48bh0jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuXM3Iq29vsZI7MTiYFwNsie9IvXvtOxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795458839557-8aqna5pvorrrqjrtgd4gfcjka48bh0jq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
